@@ -211,7 +211,7 @@ Interface no terminal: Formatação de tabelas e cores para melhor experiência
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 👨‍💻 Autor
-<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/matheus-cmc"> <img src="https://avatars.githubusercontent.com/u/161146428?v=4" width="100px;" alt="Foto do Matheus"/><br> <sub><b>Matheus CMC</b></sub> </a> </td> </tr> </table> </div>
+Matheus Carvalho
 GitHub: @matheus-cmc
 
 Projeto: shoppe-carrinho-terminal
