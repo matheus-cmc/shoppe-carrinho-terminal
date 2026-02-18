@@ -1,0 +1,19 @@
+{
+  "name": "shoppe-carrinho",
+  "version": "1.0.0",
+  "description": "Sistema de carrinho de compras inspirado na Shopee",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
